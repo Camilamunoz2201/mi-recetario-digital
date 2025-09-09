@@ -1,0 +1,17 @@
+{
+  "id": "cerdo_al_ajillo",
+  "title": "Cerdo al Ajillo",
+  "description": "Dados de cerdo salteados con abundante ajo y perejil, rápidos y llenos de sabor.",
+  "ingredients": [
+    "500 g de cerdo en cubos",
+    "4 dientes de ajo laminados",
+    "2 cdas de aceite de oliva",
+    "1 cda de perejil picado",
+    "Sal y pimienta"
+  ],
+  "steps": [
+    "Calienta el aceite y dora el ajo sin quemarlo.",
+    "Añade el cerdo salpimentado y saltea a fuego alto hasta dorar.",
+    "Apaga el fuego y agrega el perejil. Mezcla y sirve."
+  ]
+}

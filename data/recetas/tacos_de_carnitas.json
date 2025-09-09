@@ -1,0 +1,18 @@
+{
+  "id": "tacos_de_carnitas",
+  "title": "Tacos de Carnitas",
+  "description": "Carnitas de cerdo doraditas y jugosas, servidas en tortillas con cilantro, cebolla y limón.",
+  "ingredients": [
+    "1 kg de carne de cerdo (paleta) en trozos",
+    "1 hoja de laurel",
+    "1/2 cdita de comino",
+    "1 naranja (jugo)",
+    "Sal y pimienta",
+    "Tortillas, cilantro, cebolla y limón para servir"
+  ],
+  "steps": [
+    "Cocina el cerdo en poca agua con sal, laurel y comino hasta que se evapore.",
+    "Deja que se fría en su grasa hasta dorar. Agrega jugo de naranja para glasear.",
+    "Sirve en tortillas con cilantro, cebolla y limón."
+  ]
+}

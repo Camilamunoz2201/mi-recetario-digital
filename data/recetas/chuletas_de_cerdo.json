@@ -1,0 +1,18 @@
+{
+  "id": "chuletas_de_cerdo",
+  "title": "Chuletas de Cerdo en Salsa de Manzana",
+  "description": "Chuletas doradas servidas con una salsa de manzana ligeramente dulce y aromática.",
+  "ingredients": [
+    "4 chuletas de cerdo",
+    "1 manzana en cubos",
+    "1/2 cebolla picada",
+    "1/2 taza de caldo",
+    "1 cda de mantequilla",
+    "Sal y pimienta"
+  ],
+  "steps": [
+    "Sazona y dora las chuletas por ambos lados; retira.",
+    "Sofríe cebolla y manzana en mantequilla; desglasa con caldo.",
+    "Regresa las chuletas y cocina 8-10 minutos hasta espesar."
+  ]
+}

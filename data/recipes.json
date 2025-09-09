@@ -5,10 +5,73 @@
     "recipes": [
       {
         "title": "Pollo al Curry",
-        "file": "recetas/pollo_al_curry.md",
+        "id": "pollo_al_curry",
         "image": "",
         "tags": ["Pollo", "Curry", "Asiático"],
         "excerpt": "Un delicioso plato de pollo al curry con leche de coco y vegetales."
+      },
+      {
+        "title": "Pollo al Horno",
+        "id": "pollo_al_horno",
+        "image": "",
+        "tags": ["Pollo", "Horno", "Fácil"],
+        "excerpt": "Pollo jugoso al horno con hierbas aromáticas y limón."
+      },
+      {
+        "title": "Pollo a la Parrilla",
+        "id": "pollo_a_la_parrilla",
+        "image": "",
+        "tags": ["Pollo", "Parrilla", "Marinado"],
+        "excerpt": "Pechugas de pollo marinadas y asadas a la parrilla."
+      },
+      {
+        "title": "Pollo Teriyaki",
+        "id": "pollo_teriyaki",
+        "image": "",
+        "tags": ["Pollo", "Teriyaki", "Asiático"],
+        "excerpt": "Pollo glaseado en salsa teriyaki casera con sésamo."
+      },
+      {
+        "title": "Fajitas de Pollo",
+        "id": "fajitas_de_pollo",
+        "image": "",
+        "tags": ["Pollo", "Mexicano", "Sartén"],
+        "excerpt": "Tiras de pollo con pimientos y cebolla servidas en tortillas."
+      },
+      {
+        "title": "Ensalada de Pollo",
+        "id": "ensalada_de_pollo",
+        "image": "",
+        "tags": ["Pollo", "Ensalada", "Ligero"],
+        "excerpt": "Ensalada fresca con pollo desmenuzado, vegetales y aderezo."
+      },
+      {
+        "title": "Pollo con Verduras Salteadas",
+        "id": "pollo_con_verduras_salteadas",
+        "image": "",
+        "tags": ["Pollo", "Wok", "Rápido"],
+        "excerpt": "Salteado rápido de pollo con brócoli, zanahoria y pimiento."
+      },
+      {
+        "title": "Pollo Alfredo",
+        "id": "pollo_alfredo",
+        "image": "",
+        "tags": ["Pollo", "Pasta", "Cremoso"],
+        "excerpt": "Pasta cremosa con pollo en salsa Alfredo casera."
+      },
+      {
+        "title": "Pollo a la Barbacoa",
+        "id": "pollo_a_la_barbacoa",
+        "image": "",
+        "tags": ["Pollo", "BBQ", "Asado"],
+        "excerpt": "Muslos de pollo con salsa barbacoa dulce y ahumada."
+      },
+      {
+        "title": "Tinga de Pollo",
+        "id": "pollo_tinga",
+        "image": "",
+        "tags": ["Pollo", "Mexicano", "Guiso"],
+        "excerpt": "Pollo deshebrado en salsa de jitomate con chipotle."
       }
     ],
     "tags": ["Ingrediente","pollo"],
@@ -20,10 +83,73 @@
     "recipes": [
       {
         "title": "Chuletas de Cerdo en Salsa de Manzana",
-        "file": "recetas/chuletas_de_cerdo.md",
+        "id": "chuletas_de_cerdo",
         "image": "",
         "tags": ["Cerdo", "Manzana", "Salsa"],
         "excerpt": "Jugosas chuletas de cerdo en una deliciosa salsa de manzana."
+      },
+      {
+        "title": "Lomo de Cerdo al Horno",
+        "id": "lomo_de_cerdo_al_horno",
+        "image": "",
+        "tags": ["Cerdo", "Horno", "Hierbas"],
+        "excerpt": "Lomo de cerdo asado lentamente con ajo y romero."
+      },
+      {
+        "title": "Cerdo a la Barbacoa",
+        "id": "cerdo_a_la_barbacoa",
+        "image": "",
+        "tags": ["Cerdo", "BBQ", "Desmenuzado"],
+        "excerpt": "Cerdo cocido a fuego lento con salsa barbacoa."
+      },
+      {
+        "title": "Tacos de Carnitas",
+        "id": "tacos_de_carnitas",
+        "image": "",
+        "tags": ["Cerdo", "Mexicano", "Tacos"],
+        "excerpt": "Carnitas doraditas servidas en tacos con cilantro y cebolla."
+      },
+      {
+        "title": "Costillas de Cerdo BBQ",
+        "id": "costillas_de_cerdo_bbq",
+        "image": "",
+        "tags": ["Cerdo", "Costillas", "BBQ"],
+        "excerpt": "Costillas tiernas con glaseado barbacoa al horno."
+      },
+      {
+        "title": "Cerdo Agridulce",
+        "id": "cerdo_agridulce",
+        "image": "",
+        "tags": ["Cerdo", "Asiático", "Salteado"],
+        "excerpt": "Bocados de cerdo con piña y pimientos en salsa agridulce."
+      },
+      {
+        "title": "Estofado de Cerdo",
+        "id": "estofado_de_cerdo",
+        "image": "",
+        "tags": ["Cerdo", "Guiso", "Confort"],
+        "excerpt": "Estofado reconfortante de cerdo con papas y zanahorias."
+      },
+      {
+        "title": "Salteado de Cerdo y Verduras",
+        "id": "salteado_de_cerdo_y_verduras",
+        "image": "",
+        "tags": ["Cerdo", "Wok", "Rápido"],
+        "excerpt": "Tiras de cerdo salteadas con vegetales crujientes."
+      },
+      {
+        "title": "Cerdo al Ajillo",
+        "id": "cerdo_al_ajillo",
+        "image": "",
+        "tags": ["Cerdo", "Ajo", "Sartén"],
+        "excerpt": "Dados de cerdo salteados con ajo y perejil."
+      },
+      {
+        "title": "Cerdo en Salsa de Mostaza",
+        "id": "cerdo_en_salsa_de_mostaza",
+        "image": "",
+        "tags": ["Cerdo", "Mostaza", "Crema"],
+        "excerpt": "Filetes de cerdo en salsa cremosa de mostaza y miel."
       }
     ],
     "tags": ["Ingrediente","cerdo"],
@@ -35,10 +161,73 @@
     "recipes": [
       {
         "title": "Plátanos Maduros Rellenos",
-        "file": "recetas/platanos_rellenos.md",
+        "id": "platanos_rellenos",
         "image": "",
         "tags": ["Plátano", "Queso", "Frito"],
         "excerpt": "Deliciosos plátanos maduros rellenos de queso y jamón."
+      },
+      {
+        "title": "Patacones",
+        "id": "patacones",
+        "image": "",
+        "tags": ["Plátano", "Frito", "Crujiente"],
+        "excerpt": "Plátano verde frito dos veces, crujiente por fuera y tierno por dentro."
+      },
+      {
+        "title": "Torta de Plátano Maduro",
+        "id": "torta_de_platano_maduro",
+        "image": "",
+        "tags": ["Plátano", "Horno", "Postre"],
+        "excerpt": "Bizcocho húmedo y aromático de plátano maduro."
+      },
+      {
+        "title": "Batido de Plátano",
+        "id": "batido_de_platano",
+        "image": "",
+        "tags": ["Plátano", "Bebida", "Rápido"],
+        "excerpt": "Batido cremoso de plátano con leche y miel."
+      },
+      {
+        "title": "Plátanos Caramelizados",
+        "id": "platanos_caramelizados",
+        "image": "",
+        "tags": ["Plátano", "Caramelo", "Postre"],
+        "excerpt": "Rodajas de plátano doradas en mantequilla y azúcar."
+      },
+      {
+        "title": "Plátanos Fritos",
+        "id": "platanos_fritos",
+        "image": "",
+        "tags": ["Plátano", "Frito", "Clásico"],
+        "excerpt": "Plátanos maduros fritos, dulces y dorados."
+      },
+      {
+        "title": "Empanadas de Plátano",
+        "id": "empanadas_de_platano",
+        "image": "",
+        "tags": ["Plátano", "Relleno", "Horno"],
+        "excerpt": "Empanadas horneadas con masa de plátano y relleno salado."
+      },
+      {
+        "title": "Sopa de Plátano",
+        "id": "sopa_de_platano",
+        "image": "",
+        "tags": ["Plátano", "Sopa", "Confort"],
+        "excerpt": "Sopa cremosa de plátano verde con especias suaves."
+      },
+      {
+        "title": "Bolones de Verde",
+        "id": "bolones_de_verde",
+        "image": "",
+        "tags": ["Plátano", "Queso", "Desayuno"],
+        "excerpt": "Bolas de plátano verde con queso, ideales para el desayuno."
+      },
+      {
+        "title": "Chips de Plátano",
+        "id": "chips_de_platano",
+        "image": "",
+        "tags": ["Plátano", "Horneado", "Snack"],
+        "excerpt": "Láminas finas de plátano horneadas hasta quedar crujientes."
       }
     ],
     "tags": ["Ingrediente","plátano"],

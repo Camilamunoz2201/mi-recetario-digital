@@ -1,0 +1,18 @@
+{
+  "id": "platanos_rellenos",
+  "title": "Plátanos Maduros Rellenos",
+  "description": "Plátanos dulces horneados y rellenos de queso (y jamón opcional), perfectos como acompañante o cena ligera.",
+  "ingredients": [
+    "4 plátanos maduros",
+    "200 g de queso (mozzarella o fresco)",
+    "100 g de jamón en tiras (opcional)",
+    "1 cda de mantequilla",
+    "Sal (opcional)"
+  ],
+  "steps": [
+    "Precalienta el horno a 200°C.",
+    "Haz un corte longitudinal a cada plátano sin separar las mitades.",
+    "Rellena con queso (y jamón si usas). Unta con un poco de mantequilla.",
+    "Hornea 15-20 minutos hasta que el queso derrita y el plátano dore."
+  ]
+}

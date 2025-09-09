@@ -1,0 +1,22 @@
+{
+  "id": "pollo_al_curry",
+  "title": "Pollo al Curry",
+  "description": "Pollo tierno cocinado en una cremosa salsa de curry con leche de coco, cebolla y vegetales. Ideal para acompañar con arroz blanco.",
+  "ingredients": [
+    "500 g de pechuga de pollo en cubos",
+    "1 cebolla picada",
+    "2 dientes de ajo picados",
+    "2 cdas de curry en polvo o 1 cda de pasta de curry",
+    "200 ml de leche de coco",
+    "1 zanahoria en rodajas",
+    "1 taza de brócoli en floretes",
+    "Aceite, sal y pimienta"
+  ],
+  "steps": [
+    "Calienta aceite en una sartén y sofríe la cebolla y el ajo hasta dorar ligeramente.",
+    "Agrega el pollo y cocina hasta sellar por todos lados.",
+    "Añade el curry, mezcla y cocina 1 minuto para abrir aromas.",
+    "Vierte la leche de coco, incorpora zanahoria y brócoli; cocina 10-12 minutos a fuego medio.",
+    "Ajusta de sal y pimienta. Sirve caliente con arroz."
+  ]
+}

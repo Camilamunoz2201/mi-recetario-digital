@@ -1,0 +1,18 @@
+{
+  "id": "cerdo_en_salsa_de_mostaza",
+  "title": "Cerdo en Salsa de Mostaza",
+  "description": "Filetes de cerdo en una salsa cremosa de mostaza y miel, suaves y muy sabrosos.",
+  "ingredients": [
+    "600 g de filetes de cerdo",
+    "1 cda de mantequilla",
+    "200 ml de crema",
+    "1 1/2 cdas de mostaza Dijon",
+    "1 cda de miel (opcional)",
+    "Sal y pimienta"
+  ],
+  "steps": [
+    "Sazona y dora los filetes en mantequilla; retira.",
+    "En la misma sartén, añade crema, mostaza y miel; cocina a fuego medio.",
+    "Regresa el cerdo, cocina 3-4 minutos y rectifica sal y pimienta."
+  ]
+}

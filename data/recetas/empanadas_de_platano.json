@@ -1,0 +1,18 @@
+{
+  "id": "empanadas_de_platano",
+  "title": "Empanadas de Plátano",
+  "description": "Empanadas horneadas con masa de plátano maduro y relleno salado de queso o carne.",
+  "ingredients": [
+    "2 plátanos maduros grandes",
+    "1 taza de harina (aprox.)",
+    "1 huevo (opcional, para ligar)",
+    "200 g de queso o carne molida cocida para el relleno",
+    "Sal y pimienta"
+  ],
+  "steps": [
+    "Hierve los plátanos con cáscara 15-20 minutos; pela y hace puré.",
+    "Mezcla con harina (y huevo si usas) hasta formar una masa manejable.",
+    "Extiende porciones, coloca el relleno y cierra formando medias lunas.",
+    "Hornea a 190°C por 20-25 minutos hasta dorar ligeramente."
+  ]
+}

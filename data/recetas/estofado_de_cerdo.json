@@ -1,0 +1,21 @@
+{
+  "id": "estofado_de_cerdo",
+  "title": "Estofado de Cerdo",
+  "description": "Guiso reconfortante con trozos de cerdo, papas y zanahorias en caldo aromático.",
+  "ingredients": [
+    "700 g de cerdo en cubos",
+    "2 papas en cubos",
+    "2 zanahorias en rodajas",
+    "1 cebolla picada",
+    "2 dientes de ajo",
+    "2 tazas de caldo",
+    "1 hoja de laurel",
+    "Aceite, sal y pimienta"
+  ],
+  "steps": [
+    "Sella el cerdo en una olla con aceite; retira.",
+    "Sofríe cebolla y ajo; reincorpora el cerdo.",
+    "Agrega caldo, laurel, papas y zanahorias; cocina tapado 35-45 min.",
+    "Rectifica sazón y sirve caliente."
+  ]
+}

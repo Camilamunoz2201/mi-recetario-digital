@@ -1,0 +1,23 @@
+{
+  "id": "cerdo_agridulce",
+  "title": "Cerdo Agridulce",
+  "description": "Bocados de cerdo crujientes salteados con pimiento y piña en una salsa agridulce brillante.",
+  "ingredients": [
+    "500 g de lomo de cerdo en cubos",
+    "1/2 pimiento rojo en trozos",
+    "1/2 pimiento verde en trozos",
+    "1 taza de piña en cubos",
+    "2 cdas de kétchup",
+    "2 cdas de vinagre",
+    "2 cdas de azúcar",
+    "2 cdas de salsa de soja",
+    "1 cdita de maicena disuelta",
+    "Aceite, sal y pimienta"
+  ],
+  "steps": [
+    "Sella el cerdo salpimentado a fuego alto; retira.",
+    "Saltea pimientos, agrega piña y reincorpora el cerdo.",
+    "Mezcla kétchup, vinagre, azúcar y soja; vierte y espesa con maicena.",
+    "Cocina 2-3 minutos más y sirve."
+  ]
+}

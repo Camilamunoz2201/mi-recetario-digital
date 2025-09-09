@@ -1,0 +1,19 @@
+{
+  "id": "pollo_alfredo",
+  "title": "Pollo Alfredo",
+  "description": "Pasta cremosa con pollo en salsa Alfredo de mantequilla, crema y queso parmesano.",
+  "ingredients": [
+    "250 g de pasta (fettuccine)",
+    "300 g de pollo en cubos",
+    "2 cdas de mantequilla",
+    "200 ml de crema",
+    "1/2 taza de parmesano rallado",
+    "Sal y pimienta"
+  ],
+  "steps": [
+    "Cocina la pasta según instrucciones.",
+    "Dora el pollo con sal y pimienta; retira.",
+    "Funde la mantequilla, añade crema y parmesano; integra el pollo y la pasta.",
+    "Mezcla y sirve inmediatamente."
+  ]
+}

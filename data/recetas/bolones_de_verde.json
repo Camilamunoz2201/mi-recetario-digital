@@ -1,0 +1,17 @@
+{
+  "id": "bolones_de_verde",
+  "title": "Bolones de Verde",
+  "description": "Tradicionales bolones de plátano verde mezclados con queso, perfectos para el desayuno.",
+  "ingredients": [
+    "3 plátanos verdes",
+    "150 g de queso (fresco o mozzarella)",
+    "2 cdas de mantequilla o aceite",
+    "Sal al gusto"
+  ],
+  "steps": [
+    "Cocina los plátanos verdes enteros en agua con sal hasta ablandar.",
+    "Pela y machaca formando un puré; agrega mantequilla y sal.",
+    "Incorpora el queso en cubos y forma bolas compactas.",
+    "Dora en sartén con un poco de aceite y sirve caliente."
+  ]
+}

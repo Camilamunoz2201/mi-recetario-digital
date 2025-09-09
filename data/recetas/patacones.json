@@ -1,0 +1,16 @@
+{
+  "id": "patacones",
+  "title": "Patacones",
+  "description": "Clásicos patacones de plátano verde: crujientes por fuera y suaves por dentro, perfectos para acompañar.",
+  "ingredients": [
+    "3 plátanos verdes",
+    "Aceite para freír",
+    "Sal al gusto"
+  ],
+  "steps": [
+    "Pela los plátanos y córtalos en rodajas gruesas (2-3 cm).",
+    "Fríe a 160°C por 4-5 minutos hasta ablandar; escurre.",
+    "Aplasta cada rodaja y vuelve a freír a 180°C hasta dorar.",
+    "Escurre en papel y sala al gusto."
+  ]
+}

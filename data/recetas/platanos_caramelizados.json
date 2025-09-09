@@ -1,0 +1,18 @@
+{
+  "id": "platanos_caramelizados",
+  "title": "Plátanos Caramelizados",
+  "description": "Rodajas de plátano salteadas en mantequilla y azúcar hasta caramelizar, perfectas como postre rápido.",
+  "ingredients": [
+    "2 plátanos maduros",
+    "1 cda de mantequilla",
+    "2 cdas de azúcar",
+    "Canela al gusto (opcional)",
+    "Helado o yogur para acompañar (opcional)"
+  ],
+  "steps": [
+    "Corta los plátanos en rodajas diagonales.",
+    "Funde la mantequilla en sartén, añade azúcar y deja espumar.",
+    "Agrega los plátanos y cocina 1-2 minutos por lado hasta caramelizar.",
+    "Espolvorea canela y sirve al momento."
+  ]
+}

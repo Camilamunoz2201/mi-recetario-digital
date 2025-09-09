@@ -1,0 +1,19 @@
+{
+  "id": "sopa_de_platano",
+  "title": "Sopa de Plátano",
+  "description": "Sopa cremosa y reconfortante hecha con plátano verde, ideal para días fríos.",
+  "ingredients": [
+    "3 plátanos verdes",
+    "1 litro de caldo",
+    "1/2 cebolla",
+    "1 diente de ajo",
+    "1 cda de aceite",
+    "Sal y pimienta"
+  ],
+  "steps": [
+    "Sofríe la cebolla y el ajo en aceite hasta transparentar.",
+    "Agrega el caldo y los plátanos en trozos; cocina 15 minutos.",
+    "Licúa hasta obtener una crema y regresa a la olla.",
+    "Ajusta sazón y sirve caliente."
+  ]
+}

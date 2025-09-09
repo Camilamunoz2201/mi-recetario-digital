@@ -1,0 +1,15 @@
+{
+  "id": "platanos_fritos",
+  "title": "Plátanos Fritos",
+  "description": "Clásicos plátanos maduros fritos hasta quedar dorados y caramelizados.",
+  "ingredients": [
+    "3 plátanos muy maduros",
+    "Aceite para freír",
+    "Pizca de sal (opcional)"
+  ],
+  "steps": [
+    "Pela y corta los plátanos en rodajas diagonales de 1–1.5 cm.",
+    "Fríe en aceite medio-alto 2–3 minutos por lado hasta dorar.",
+    "Escurre sobre papel y sala ligeramente si deseas."
+  ]
+}

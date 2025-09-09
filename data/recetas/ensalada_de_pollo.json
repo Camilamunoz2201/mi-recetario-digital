@@ -1,0 +1,18 @@
+{
+  "id": "ensalada_de_pollo",
+  "title": "Ensalada de Pollo",
+  "description": "Ensalada fresca con pollo desmenuzado, vegetales crujientes y aderezo ligero.",
+  "ingredients": [
+    "2 tazas de pollo cocido desmenuzado",
+    "1 taza de lechuga picada",
+    "1/2 taza de tomate en cubos",
+    "1/4 taza de pepino en cubos",
+    "2 cdas de maíz dulce",
+    "Aderezo al gusto"
+  ],
+  "steps": [
+    "Mezcla todos los ingredientes en un bol.",
+    "Añade el aderezo y combina.",
+    "Sirve frío."
+  ]
+}

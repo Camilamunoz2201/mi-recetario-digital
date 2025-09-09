@@ -1,0 +1,19 @@
+{
+  "id": "pollo_con_verduras_salteadas",
+  "title": "Pollo con Verduras Salteadas",
+  "description": "Salteado rápido de pollo con brócoli, zanahoria y pimiento en wok.",
+  "ingredients": [
+    "400 g de pollo en tiras",
+    "1 taza de brócoli",
+    "1 zanahoria en rodajas finas",
+    "1/2 pimiento en tiras",
+    "2 cdas de salsa de soja",
+    "1 cda de aceite de sésamo (opcional)",
+    "Aceite, sal y pimienta"
+  ],
+  "steps": [
+    "Saltea el pollo a fuego alto hasta sellar.",
+    "Agrega vegetales y saltea 3-4 minutos.",
+    "Añade soja y aceite de sésamo, rectifica sazón y sirve."
+  ]
+}

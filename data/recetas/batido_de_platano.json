@@ -1,0 +1,17 @@
+{
+  "id": "batido_de_platano",
+  "title": "Batido de Plátano",
+  "description": "Batido cremoso y rápido de plátano, ideal para el desayuno o merienda.",
+  "ingredients": [
+    "2 plátanos maduros",
+    "300 ml de leche (o bebida vegetal)",
+    "1 cda de miel o azúcar (opcional)",
+    "Hielo al gusto",
+    "Canela (opcional)"
+  ],
+  "steps": [
+    "Coloca los plátanos en la licuadora con la leche.",
+    "Añade miel/azúcar, hielo y canela si deseas.",
+    "Licúa hasta que quede homogéneo y sirve frío."
+  ]
+}

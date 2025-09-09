@@ -1,0 +1,19 @@
+{
+  "id": "fajitas_de_pollo",
+  "title": "Fajitas de Pollo",
+  "description": "Tiras de pollo salteadas con pimientos y cebolla, sazonadas al estilo tex-mex.",
+  "ingredients": [
+    "500 g de pollo en tiras",
+    "1 pimiento rojo en tiras",
+    "1 pimiento verde en tiras",
+    "1 cebolla en plumas",
+    "1 cda de comino",
+    "1 cdita de pimentón",
+    "Sal, pimienta y aceite"
+  ],
+  "steps": [
+    "Saltea el pollo a fuego alto hasta dorar.",
+    "Agrega pimientos y cebolla; cocina 4-5 minutos.",
+    "Sazona con comino, pimentón, sal y pimienta. Sirve en tortillas."
+  ]
+}

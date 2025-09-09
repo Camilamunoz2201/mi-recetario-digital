@@ -1,0 +1,21 @@
+{
+  "id": "torta_de_platano_maduro",
+  "title": "Torta de Plátano Maduro",
+  "description": "Bizcocho húmedo y aromático elaborado con plátanos maduros, perfecto para la hora del café.",
+  "ingredients": [
+    "3 plátanos maduros",
+    "2 huevos",
+    "1/2 taza de azúcar",
+    "1/3 taza de aceite o mantequilla derretida",
+    "1 1/2 tazas de harina",
+    "1 cdita de polvo de hornear",
+    "1/2 cdita de canela (opcional)",
+    "Pizca de sal"
+  ],
+  "steps": [
+    "Precalienta el horno a 180°C y engrasa un molde.",
+    "Tritura los plátanos y mezcla con huevos, azúcar y aceite.",
+    "Agrega harina, polvo de hornear, canela y sal; integra sin batir de más.",
+    "Vierte en el molde y hornea 35-45 minutos o hasta que al insertar un palillo salga limpio."
+  ]
+}

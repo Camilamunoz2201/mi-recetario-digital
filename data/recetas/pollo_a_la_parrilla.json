@@ -1,0 +1,18 @@
+{
+  "id": "pollo_a_la_parrilla",
+  "title": "Pollo a la Parrilla",
+  "description": "Pechugas marinadas y asadas a la parrilla para un sabor ahumado y jugoso.",
+  "ingredients": [
+    "4 pechugas de pollo",
+    "3 cdas de salsa de soja",
+    "2 cdas de aceite de oliva",
+    "1 cda de miel",
+    "1 diente de ajo rallado",
+    "Pimienta"
+  ],
+  "steps": [
+    "Mezcla los ingredientes y marina el pollo 30 minutos.",
+    "Asa a fuego medio-alto 5-6 minutos por lado, hasta cocción completa.",
+    "Reposa 3 minutos y sirve."
+  ]
+}

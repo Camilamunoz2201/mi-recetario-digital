@@ -1,0 +1,18 @@
+{
+  "id": "pollo_tinga",
+  "title": "Tinga de Pollo",
+  "description": "Pollo deshebrado cocinado en salsa de jitomate con chipotle, perfecto para tacos o tostadas.",
+  "ingredients": [
+    "2 pechugas de pollo cocidas y deshebradas",
+    "3 jitomates maduros",
+    "1/2 cebolla en plumas",
+    "1 diente de ajo",
+    "1-2 chiles chipotles en adobo",
+    "Aceite, sal"
+  ],
+  "steps": [
+    "Licúa jitomates, chipotle y ajo.",
+    "Sofríe la cebolla, añade la salsa y cocina 5-7 minutos.",
+    "Incorpora el pollo y cocina 5 minutos más. Ajusta sal."
+  ]
+}

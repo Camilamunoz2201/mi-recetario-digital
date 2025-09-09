@@ -1,0 +1,16 @@
+{
+  "id": "chips_de_platano",
+  "title": "Chips de Plátano",
+  "description": "Láminas finas de plátano horneadas o fritas hasta quedar crujientes, perfectas como snack.",
+  "ingredients": [
+    "2 plátanos verdes",
+    "1 cda de aceite (si horneas) o aceite para freír",
+    "Sal y especias al gusto (pimentón, ajo en polvo)"
+  ],
+  "steps": [
+    "Corta el plátano en láminas muy finas con mandolina o cuchillo.",
+    "Para hornear: mezcla con 1 cda de aceite, distribuye en bandeja y hornea a 160-170°C 12-18 min, volteando una vez.",
+    "Para freír: fríe a 170°C hasta dorar; escurre.",
+    "Sala y condimenta al gusto."
+  ]
+}

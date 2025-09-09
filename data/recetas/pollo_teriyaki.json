@@ -1,0 +1,19 @@
+{
+  "id": "pollo_teriyaki",
+  "title": "Pollo Teriyaki",
+  "description": "Pollo salteado y glaseado con una salsa teriyaki casera, terminado con semillas de sésamo.",
+  "ingredients": [
+    "500 g de muslos de pollo en trozos",
+    "3 cdas de salsa de soja",
+    "2 cdas de mirin o vino blanco",
+    "1 cda de azúcar",
+    "1 cdita de jengibre rallado",
+    "1 cdita de maicena (opcional)",
+    "Semillas de sésamo"
+  ],
+  "steps": [
+    "Mezcla soja, mirin, azúcar y jengibre.",
+    "Saltea el pollo hasta dorar; agrega la salsa y reduce a fuego medio.",
+    "Espesa con maicena si deseas. Decora con sésamo y sirve."
+  ]
+}

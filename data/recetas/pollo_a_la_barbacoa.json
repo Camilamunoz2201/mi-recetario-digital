@@ -1,0 +1,16 @@
+{
+  "id": "pollo_a_la_barbacoa",
+  "title": "Pollo a la Barbacoa",
+  "description": "Muslos de pollo horneados o a la parrilla con salsa BBQ dulce y ahumada.",
+  "ingredients": [
+    "8 muslos de pollo",
+    "1 taza de salsa barbacoa",
+    "1 cda de miel (opcional)",
+    "Sal y pimienta"
+  ],
+  "steps": [
+    "Sazona los muslos con sal y pimienta.",
+    "Unta con salsa BBQ y hornea a 190°C por 35-40 minutos o asa a la parrilla.",
+    "Barniza a mitad de cocción. Sirve caliente."
+  ]
+}

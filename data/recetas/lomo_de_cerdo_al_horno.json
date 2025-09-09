@@ -1,0 +1,19 @@
+{
+  "id": "lomo_de_cerdo_al_horno",
+  "title": "Lomo de Cerdo al Horno",
+  "description": "Lomo de cerdo tierno y jugoso, horneado lentamente con ajo, romero y limón.",
+  "ingredients": [
+    "1 kg de lomo de cerdo",
+    "2 dientes de ajo picados",
+    "2 cdas de aceite de oliva",
+    "1 cda de romero fresco o seco",
+    "Ralladura de 1 limón",
+    "Sal y pimienta"
+  ],
+  "steps": [
+    "Precalienta el horno a 190°C.",
+    "Mezcla aceite, ajo, romero, ralladura, sal y pimienta; unta el lomo.",
+    "Sella en sartén por todos lados y luego hornea 35-45 min (hasta 63-65°C internos).",
+    "Reposa 10 min y rebana para servir."
+  ]
+}

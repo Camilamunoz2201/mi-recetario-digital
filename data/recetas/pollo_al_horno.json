@@ -1,0 +1,19 @@
+{
+  "id": "pollo_al_horno",
+  "title": "Pollo al Horno",
+  "description": "Piezas de pollo jugosas, horneadas con limón y hierbas secas para un resultado aromático y dorado.",
+  "ingredients": [
+    "1 kg de piezas de pollo",
+    "2 cdas de aceite de oliva",
+    "2 dientes de ajo picados",
+    "Jugo de 1 limón",
+    "1 cda de hierbas secas (romero, tomillo)",
+    "Sal y pimienta"
+  ],
+  "steps": [
+    "Precalienta el horno a 200°C.",
+    "Mezcla aceite, ajo, jugo de limón, hierbas, sal y pimienta. Unta el pollo.",
+    "Hornea 35-45 minutos o hasta que el jugo salga claro y la piel dore.",
+    "Reposa 5 minutos antes de servir."
+  ]
+}
