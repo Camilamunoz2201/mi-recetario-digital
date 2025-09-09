@@ -4,6 +4,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    scroll-behavior: smooth;
 }
 
 .imagen-principal {
@@ -92,37 +93,4 @@
     padding: 1rem;
     box-shadow: 0 6px 18px rgba(0,0,0,0.15);
     backdrop-filter: blur(2px);
-}
-
-.recipe-title {
-    font-family: 'Merienda';
-    font-size: 1.2rem;
-    margin-bottom: 0.5rem;
-}
-
-.recipe-excerpt {
-    color: #333;
-    margin-bottom: 0.75rem;
-}
-
-.recipe-toggle {
-    padding: 0.5rem 0.75rem;
-    border-radius: 8px;
-    background: #222;
-    color: #fff;
-    border: none;
-    cursor: pointer;
-}
-
-.recipe-toggle:hover {
-    background: #444;
-}
-
-.recipe-details {
-    margin-top: 0.75rem;
-}
-
-.recipe-subtitle {
-    margin-top: 0.75rem;
-    margin-bottom: 0.25rem;
 }

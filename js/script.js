@@ -115,6 +115,28 @@
 //     init();
 //   });
 
-document.addEventListener('DOMContentLoaded', () => {
+async function renderRecipeCard() {
+  const res = await fetch(`./data/recipes.json`);
+  if (!res.ok) throw new Error('No se pudieron cargar las categorías');
+  const categories = await res.json();
+
+  const idCategories = [
+    "recetas-pollo", // => 0 length = 1
+    "recetas-cerdo", // => 1 length = 2
+    "recetas-platano" // => 2 length = 3
+  ];
+
+  let iter = 0;
+  while (iter < idCategories.length) {
+    const idCategory = idCategories[iter];
+
+    const section = document.getElementById(idCategory);
+    if (!section) continue; // contenedor de errores en el dado caso de que no encuentre la sección
+
     
-})
+
+    iter++;
+  }
+}
+
+document.addEventListener('DOMContentLoaded', renderRecipeCard)
