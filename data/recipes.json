@@ -1,19 +1,47 @@
 [
   {
-    "slug": "pasta_carbonara",
-    "title": "Pasta Carbonara",
-    "file": "recetas/pasta_carbonara.md",
-    "image": "img/pasta carbonara.jpg",
-    "tags": ["pasta","italiano"],
-    "excerpt": "Pasta cremosa con panceta, yemas y queso parmesano."
+    "slug": "recetas_pollo",
+    "title": "Recetas con Pollo",
+    "recipes": [
+      {
+        "title": "Pollo al Curry",
+        "file": "recetas/pollo_al_curry.md",
+        "image": "",
+        "tags": ["Pollo", "Curry", "Asiático"],
+        "excerpt": "Un delicioso plato de pollo al curry con leche de coco y vegetales."
+      }
+    ],
+    "tags": ["Ingrediente","pollo"],
+    "excerpt": "Recetas deliciosas y fáciles de preparar con pollo."
   },
   {
-    "slug": "arepas_rellenas",
-    "title": "Arepas Rellenas",
-    "file": "recetas/arepas_rellenas.md",
-    "image": "img/arepa rellena queso.jpg",
-    "tags": ["maíz","rápido"],
-    "excerpt": "Arepas crujientes rellenas de queso o tu relleno favorito."
+    "slug": "recetas_cerdo",
+    "title": "Recetas con Cerdo",
+    "recipes": [
+      {
+        "title": "Chuletas de Cerdo en Salsa de Manzana",
+        "file": "recetas/chuletas_de_cerdo.md",
+        "image": "",
+        "tags": ["Cerdo", "Manzana", "Salsa"],
+        "excerpt": "Jugosas chuletas de cerdo en una deliciosa salsa de manzana."
+      }
+    ],
+    "tags": ["Ingrediente","cerdo"],
+    "excerpt": "Recetas sabrosas y variadas con carne de cerdo."
+  },
+  {
+    "slug": "recetas_platano",
+    "title": "Recetas con Plátano",
+    "recipes": [
+      {
+        "title": "Plátanos Maduros Rellenos",
+        "file": "recetas/platanos_rellenos.md",
+        "image": "",
+        "tags": ["Plátano", "Queso", "Frito"],
+        "excerpt": "Deliciosos plátanos maduros rellenos de queso y jamón."
+      }
+    ],
+    "tags": ["Ingrediente","plátano"],
+    "excerpt": "Recetas creativas y nutritivas con plátano."
   }
-  
 ]
